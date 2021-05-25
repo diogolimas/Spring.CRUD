@@ -1,0 +1,4 @@
+com\algaworks\crm\controller\ClientController.class
+com\algaworks\crm\repository\ClientRepository.class
+com\algaworks\crm\AlgacrmApiApplication.class
+com\algaworks\crm\model\Client.class
